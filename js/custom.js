@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>SlopeOnline.github.io</strong>';
+        el.innerHTML = '<strong>Slope-Online.github.io</strong>';
         el.style.visibility = 'visible';
     });
 });
