@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Slope Unblocked</strong>';
+        el.innerHTML = '<strong>SlopeOnline.github.io</strong>';
         el.style.visibility = 'visible';
     });
 });
