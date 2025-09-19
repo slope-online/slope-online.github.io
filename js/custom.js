@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Slope-Online.github.io</strong>';
+        el.innerHTML = '<strong>Slope-Online.Github.io</strong>';
         el.style.visibility = 'visible';
     });
 });
@@ -50,7 +50,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-XRZK4CGBNS');
+loadGoogleAnalytics('G-T653JLH52V');
 
 
 // Block any script with a source from 'rodesquad.com'
