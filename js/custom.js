@@ -1,9 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll('.navbar-brand.js-scroll-trigger').forEach(function(el) {
-        el.innerHTML = '<strong>Slope-Online.Github.io</strong>';
-        el.style.visibility = 'visible';
-    });
-});
 
 /*
 
